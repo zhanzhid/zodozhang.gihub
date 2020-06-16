@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">BeaverLog</string>
+    <string name="title_home">Home</string>
+    <string name="title_following">Following</string>
+    <string name="title_newpost">New Post</string>
+    <string name="title_account">Account</string>
+
+
+    <string-array name="post_title">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+        <item>item 5</item>
+        <item>item 6</item>
+        <item>item 7</item>
+        <item>item 8</item>
+        <item>item 9</item>
+        <item>item 10</item>
+        <item>item 11</item>
+        <item>item 12</item>
+        <item>item 13</item>
+        <item>item 14</item>
+        <item>item 15</item>
+    </string-array>
+
+    <string-array name="post_content">
+        <item>content for item 1</item>
+        <item>content for item 2</item>
+        <item>content for item 3</item>
+        <item>content for item 4</item>
+        <item>content for item 5</item>
+        <item>content for item 6</item>
+        <item>content for item 7</item>
+        <item>content for item 8</item>
+        <item>content for item 9</item>
+        <item>content for item 10</item>
+        <item>content for item 11</item>
+        <item>content for item 12</item>
+        <item>content for item 13</item>
+        <item>content for item 14</item>
+        <item>content for item 15</item>
+    </string-array>
+</resources>

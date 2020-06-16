@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "901098382213",
+    "firebase_url": "https://beaverlog1.firebaseio.com",
+    "project_id": "beaverlog1",
+    "storage_bucket": "beaverlog1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901098382213:android:cea5b22291e0d6c5a0daec",
+        "android_client_info": {
+          "package_name": "com.example.beaverlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901098382213-gmgma43ffvilt108vpv8f97p5udbvfq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beaverlog",
+            "certificate_hash": "fb7ce6e5b9ecdf752c779d1b44196728c3965f31"
+          }
+        },
+        {
+          "client_id": "901098382213-lelbhdhldqr1np212ov2cgetrcksqlkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beaverlog",
+            "certificate_hash": "3f4777d65083a7fe308e3f423726ca4503bbb351"
+          }
+        },
+        {
+          "client_id": "901098382213-jn5hfhef8noa8t83hil9avgupqa9825m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIel1rTMlkVyofLdnvk5_7chcjWqbaK-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901098382213-jn5hfhef8noa8t83hil9avgupqa9825m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
