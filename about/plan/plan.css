@@ -1,0 +1,31 @@
+ody {font-family: 'Nunito', sans-serif;
+font-size:1em;}
+a
+  a:hover {color: white; background-color: grey;}
+nav {text-align: center;}
+nav li {list-style-type:none; display: inline-block;}
+article {background-color: rgb(230,230,230); margin-bottom: 2%; padding:2%; margin: 2%;} 
+footer {background-color: grey; margin-bottom: 2%}
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {margin-top: 0} 
+img {}
+header p{text-align: center;}
+table {
+	width:100%;
+	border-collapse:collapse;
+	display: block;
+	border: 2px solid black;}
+  tr {border-bottom:2px solid black;}
+  th {text-align: left; 
+  border-bottom:2px solid black;}
+  td {padding:1%;}
+dl {display: block;
+margin-top: 1%;
+margin-bottom: 1%;}
+  dt {font-weight: bold;}
+  dd {}
+ol, ul {}
+  li {}
+.alignright {float:right; margin:0 0 0 2%;background-color: white;}
+.clear       {clear:both;}

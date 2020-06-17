@@ -1,0 +1,5 @@
+ErrorDocument 400 http://people.oregonstate.edu/~zhanzhid/lol/error.html
+ErrorDocument 401 http://people.oregonstate.edu/~zhanzhid/lol/error.html
+ErrorDocument 403 http://people.oregonstate.edu/~zhanzhid/lol/error.html
+ErrorDocument 404 http://people.oregonstate.edu/~zhanzhid/lol/error.html
+ErrorDocument 500 http://people.oregonstate.edu/~zhanzhid/lol/error.html
